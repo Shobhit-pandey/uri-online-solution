@@ -1,0 +1,5 @@
+r=float(input())
+s=(3.14159*r*r)
+c=format(s, '.4f')
+c='A='+str(c)
+print(c)
